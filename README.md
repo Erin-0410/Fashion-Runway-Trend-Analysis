@@ -66,20 +66,6 @@ In addition, the project mainly focused on Spring/Summer 2025 collections, so lo
 
 ---
 
-## Libraries Used
-
-- Python
-- Selenium
-- Pandas
-- NumPy
-- Matplotlib
-- OpenCV
-- Scikit-learn
-- HuggingFace Transformers
-- PIL
-
----
-
 ## Future Improvements
 
 Possible future improvements include:
