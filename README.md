@@ -1,4 +1,4 @@
-# FashionDataset
+# Fashion Trend Analysis
 
 ## Overview
 
