@@ -14,7 +14,7 @@ The runway collection links and images were collected from:
 
 - NowFashion Spring/Summer 2025 Ready-to-Wear collections
 
-The dataset includes over 230 runway collections from different designer brands.
+The dataset includes over 230 runway collections from different designer brands. Due to dataset size limitations, the raw image files are not included in this repository.
 
 Project structure:
 
