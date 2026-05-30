@@ -14,7 +14,7 @@ The runway collection links and images were collected from:
 
 - NowFashion Spring/Summer 2025 Ready-to-Wear collections
 
-The dataset includes over 230 runway collections from different designer brands. Due to dataset size limitations, the raw image files are not included in this repository.
+The dataset includes over 230 runway collections from different designer brands. Some raw image files may not be included in this repository due to dataset size limitations.
 
 Dataset Link:
 https://drive.google.com/drive/folders/1b-sXLVq0GOPQ-1dRYx-g5sIbmU9PDXSS?usp=drive_link
@@ -81,3 +81,7 @@ Possible future improvements include:
 - accessory detection
 - clustering runway styles by aesthetic category
 
+
+## Note
+
+If the notebook preview does not display correctly on GitHub, please download the `.ipynb` file and open it in Jupyter Notebook or VS Code.
